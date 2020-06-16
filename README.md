@@ -1,0 +1,1 @@
+In this project, I'm practicing how to use git and github while trying to make a copy of the Google homepage. 
