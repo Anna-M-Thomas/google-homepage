@@ -1,0 +1,17 @@
+body {
+	font-family: arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: rgba(0,0,0,0.87)
+}
+
+.bottom-bar {
+	background-color: #f2f2f2;
+	color: rgba(0,0,0,.54);
+}
+
+.bottom-bar a {
+	color: rgba(0,0,0,.54);
+}
